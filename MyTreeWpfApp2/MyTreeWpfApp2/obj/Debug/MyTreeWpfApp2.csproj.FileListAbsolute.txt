@@ -1,0 +1,16 @@
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\bin\Debug\MyTreeWpfApp2.exe.config
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\bin\Debug\MyTreeWpfApp2.exe
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\bin\Debug\MyTreeWpfApp2.pdb
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\MyTreeWpfApp2.csprojAssemblyReference.cache
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\MainWindow.g.cs
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\App.g.cs
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\MyTreeWpfApp2_MarkupCompile.cache
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\MyTreeWpfApp2_MarkupCompile.lref
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\MainWindow.baml
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\MyTreeWpfApp2.g.resources
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\MyTreeWpfApp2.Properties.Resources.resources
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\MyTreeWpfApp2.csproj.GenerateResource.cache
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\MyTreeWpfApp2.csproj.CoreCompileInputs.cache
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\MyTreeWpfApp2.exe
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\MyTreeWpfApp2.pdb
+C:\DEV\20181130\MyTreeWpfApp2\MyTreeWpfApp2\obj\Debug\GeneratedInternalTypeHelper.g.cs

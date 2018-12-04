@@ -1,0 +1,11 @@
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Models\bin\Debug\CMS.Models.dll
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Models\bin\Debug\CMS.Models.pdb
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Models\obj\Debug\CMS.Models.csproj.CoreCompileInputs.cache
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Models\obj\Debug\CMS.Models.dll
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Models\obj\Debug\CMS.Models.pdb
+C:\DEV\20181128\CMS-master\CMS.Models\bin\Debug\CMS.Models.dll
+C:\DEV\20181128\CMS-master\CMS.Models\bin\Debug\CMS.Models.pdb
+C:\DEV\20181128\CMS-master\CMS.Models\obj\Debug\CMS.Models.csprojAssemblyReference.cache
+C:\DEV\20181128\CMS-master\CMS.Models\obj\Debug\CMS.Models.csproj.CoreCompileInputs.cache
+C:\DEV\20181128\CMS-master\CMS.Models\obj\Debug\CMS.Models.dll
+C:\DEV\20181128\CMS-master\CMS.Models\obj\Debug\CMS.Models.pdb
